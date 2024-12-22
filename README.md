@@ -12,5 +12,5 @@ npx hardhat node
 npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 
-LearningTokenModule#LearningToken - 0xA86d3Ab146ed0c34B28Be3D3752B8B889BcDdF55
-StakingModule#Staking - 0x20f9E7589979526932Eb2e204aB9567e28E34783
+LearningToken - 0xA86d3Ab146ed0c34B28Be3D3752B8B889BcDdF55
+Staking - 0x20f9E7589979526932Eb2e204aB9567e28E34783
